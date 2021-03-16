@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/BurntSushi/toml"
-	. "github.com/neatio-project/go-common"
+	. "github.com/neatlib/common-go"
 )
 
 type Config interface {
