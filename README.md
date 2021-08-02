@@ -1,1 +1,1 @@
-# Config-go Library
+# Config Go Library
