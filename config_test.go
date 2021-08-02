@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/BurntSushi/toml"
-	. "github.com/neatlib/config-go"
+	. "github.com/neatlib/common-go"
 )
 
 var (
